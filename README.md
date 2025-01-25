@@ -1,8 +1,8 @@
 <h1>Creating the Domain Controller</h1>
 
-## The first step is to Run VirtualBox. Click New to create a new virtual machine. We'll name it "DC" for Domain Controller. Our version for this machine will be "Other Windows (64-bit)." 
+#### The first step is to Run VirtualBox. Click New to create a new virtual machine. We'll name it "DC" for Domain Controller. Our version for this machine will be "Other Windows (64-bit)." 
 
-## Under Hardware, depending on the RAM of your host PC, you can adjust the Base Memory and Processors of your VM to your liking. I set mine to 4096 MB and 4 CPUs to reduce lag. Hit Continue up to Create, and create the VM (virtual machine).
+#### Under Hardware, depending on the RAM of your host PC, you can adjust the Base Memory and Processors of your VM to your liking. I set mine to 4096 MB and 4 CPUs to reduce lag. Hit Continue up to Create, and create the VM (virtual machine).
 
 ## Let's adjust some settings on our new virtual machine. Highlight the VM and click Settings. Under the Advanced tab, change both dropdown menus to Bidirectional. This will help create seamless interaction between your host PC and VMs. 
 
