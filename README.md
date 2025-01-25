@@ -18,3 +18,4 @@
 
 #### To improve performance on the VM, let's quickly hit Devices at the top of the VirtualBox window containing the VM preview. Click "Insert Guest Additions CD Image." Open File Explorer and access the new CD drive. Run the file ending in "amd64" Hit Next until install. The VM will restart again.
 	
+## Configure IP Addressing and Domain Services
